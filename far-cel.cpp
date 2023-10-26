@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include <limits>
 using namespace std;
 
@@ -18,7 +19,7 @@ int main() {
     float C;
 
     while(true) {
-        cout << "\nInserisci per convertire Fahrenheit a Celsius o CF per il contrario. Scrivi q per uscire: ";
+        cout << "\nInserisci FC per convertire Fahrenheit a Celsius o CF per il contrario. Scrivi q per uscire: ";
         cin >> FC_CF;
 
         if (FC_CF == "FC") {
