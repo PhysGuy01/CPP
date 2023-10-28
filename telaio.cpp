@@ -1,3 +1,9 @@
+/*
+
+    Esercizio 3 - Scelta Telaio 
+    Author: Francesco Specchia (@PhysGuy01) - 2023
+
+*/
 #include <iostream>
 #include <string>
 #include <limits>

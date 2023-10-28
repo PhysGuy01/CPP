@@ -1,3 +1,9 @@
+/*
+
+    Esercizio - Risolutore equazioni quadratiche  
+    Author: Francesco Specchia (@PhysGuy01) - 2023
+
+*/
 #include <iostream>
 #include <string>
 #include <math.h>

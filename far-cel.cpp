@@ -1,3 +1,9 @@
+/*
+
+    Esercizio - Convertitore Farheneit-Celsius 
+    Author: Francesco Specchia (@PhysGuy01) - 2023
+
+*/
 #include <iostream>
 #include <string>
 #include <limits>
