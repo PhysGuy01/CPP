@@ -57,6 +57,66 @@ int main() {
                 v[j] = tmp;             // il j-esimo diventa quello che prima era l'i-esimo
             }
 
+//
+//
+//     PUNTATORI
+//
+//
+
+
+// dataType * var;
+// dataypes che rappresentano la posizione in memoria  (di var, arr, struct, classi)
+
+// Ex. int *a; int* a; int * a;
+// Ex. definizioni multiple: int *a, *b;
+//      ATTENZIONE!  int *a, b; // --> b variabile intera 
+
+// Operatore indirizzo di memoria:
+//  Ex. int x = 5;  ==>  &x --> 0x1832..
+//          & == 'operatore indirizzo di memoria' -- "Dove si trova l'oggetto in memoria?"
+
+//  Ex. Assegnare indirizzo al puntatore;       | &x198..|   | 5 |   |
+    int x = 5;      //                              p          x
+    int* p;
+    p = &x;
+
+    cout << x << endl;      // --> 5
+    cout << &x << endl;     // --> 0x198..
+    cout << p << endl;      // --> 0x198..
+    cout << &p << endl;     // --> 0xf42..
+    cout << *p << endl;     // --> 5
+
+    x = 6;    // ==> *p --> 6
+    *p = 7;   // ==> x --> 7
+        // x e *p sono strettamente collegate!
+
+// Init ptrs:
+
+    int *p = NULL;
+    int *p = 0;
+    if (p == NULL) {
+        // Controllare lo stato del ptr
+    }
+
+    // operatore new
+    // new dataType; --> alloca una var
+    // new dataType[intExpression]; --> array di variabili
+    // Ex.
+    int *p = new int;
+    *p =  89; // un po' machinoso...
+    // Ex2
+    int *v = new int[2];
+
+    // Deallocation...
+    delete[] v  // ??
+
+// Operazioni con puntatori
+    // int *p, *q;
+    //   i-  p = q  --> puntano allo stesso indirizo
+    //  ii-  p == q, p != q  --> confrotno tra indirizzi
+    //       *p == *q *p != *q  --> // tra valori puntati
+    // iii-  p++, p = p + 1 --> incremento del valore di p (mi sposto di una cella)
+
 
     return 0;
 }

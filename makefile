@@ -1,15 +1,13 @@
+CC = g++
 
-all: none far-cel
 
-#compulare files
-none: none.cpp
-	g++ -o none none.cpp
+all: es2 es3 es4
 
-far-cel: far-cel.cpp
-	g++ -o far-cel far-cel.cpp
+es2: es2_lez7.cpp
+	$(CC) -o $@ $<
 
-exnone: none
-	./none
+es3: es3_lez7.cpp
+	$(CC) -o $@ $<
 
-exfar-cel: far-cel
-	./far-cel
+es4: es4_lez7.cpp
+	$(CC) -o $@ $<
