@@ -56,16 +56,20 @@ void scambiaC(double *a, double *b) {
 
 /* Funzioni per Array:
     due modalia' equivalenti:
--i              */
+1              */
 void print1(int *v, int n) {
-    for(int i = 0; i < n; i++)
+    for(int i = 0; i < n; i++) {
         cout << v[i] << endl;
+    }
+        
 }
-/*
--ii             */
+
+// 2
 void print2(int v[], int n) {
-    for(int i = 0: i < n; i++) 
-        cout << v[i] << endl;
+    for (int k = 0; k < n; k++) {
+        cout << v[k] << endl;
+    }
+        
 }
 
 int main() {
@@ -89,8 +93,8 @@ int main() {
 
 
     // C-Style
-    double v = 3
-    y(&v);
+    double v = 3;
+    y(v);
     cout << v << endl; // --> 5
 
 

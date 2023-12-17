@@ -14,6 +14,7 @@ int main() {
         return 1;
     }
     double v[N];
+    double x, y;
     for (int k = 0; k < N; k++) {
         data_moto >> x >> y;
         if (data_moto.eof()) break;
@@ -21,7 +22,7 @@ int main() {
     }
     data_moto.close();
 
-    double sum0 = 0;
+    double sum = 0;
     for (int i = 0; i < N; i++) 
         sum += v[i];
     

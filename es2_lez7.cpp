@@ -42,7 +42,7 @@ void sort_array(int a[], int n) {
         p = &a[i];
         for(int j = i; j < n; j++){
             q = &a[j];
-            if (a[j] < a[i]) {
+            if (*p < *q) {
                 double tmp = *p;
                 *p = *q;
                 *q = tmp;
