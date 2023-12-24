@@ -35,7 +35,7 @@ void min_max_array(int w[], int n, int &max, int &min) {
     min = min_array(w, n);
 }
 
-// sorteggio ottimizzato
+// sorteggio "ottimizzato" (marginalmente più veloce)
 void sort_array(int a[], int n) {
     int *p, *q;
     for(int i = 0; i < n; i++) {

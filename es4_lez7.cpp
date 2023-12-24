@@ -1,3 +1,10 @@
+//
+//             -- Author: @PhysGuy01 --
+//        Programma per controllare se un punto 
+//    in coordinate cartesiane sta dentro un cerchio 
+//            unitario centrato in (1,1)
+//
+
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -28,7 +35,7 @@ int main(){
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(),'\n');
             cout << "Valore errato, inserisci due NUMERI: ";
-            cin >> xP, yP;
+            cin >> xP >> yP;
         } 
         cout << "\nDistanza dal centro: " << distanza(xP, yP, xC, yC) << endl;
         check_circle(xP, yP, xC, yC, r, status);

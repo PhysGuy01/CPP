@@ -15,7 +15,7 @@ double integrate_gaussian(double a, double b, int n) {
     for (int i = 0; i < n; i++) 
         integrale += (gauss(a + i * d) + gauss(a + (i + 1) * d))/2;
     
-    return d*integrale;
+    return d * integrale;
 }
 int main() {
     double a,b,n;

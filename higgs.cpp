@@ -9,7 +9,7 @@ using namespace std;
 int main() {
     fstream data;
     data.open("data_higgs.dat", ios::in);
-    if (!data_moto.good()) {
+    if (!data.good()) {
         cout << "Errore" << endl; 
         return 1;
     }
@@ -27,8 +27,8 @@ int main() {
                 mass[j] = tmp;
             }
 
-    double masmax = mass[sizeof(mass) / sizeof(*mass) - 1]
-    double masmin = mass[0]
+    double massmax = mass[sizeof(mass) / sizeof(*mass) - 1];
+    double massmin = mass[0];
     cout << "Massa Massima:" << mass[sizeof(mass) / sizeof(*mass) - 1] << endl;
     cout << "Massa Minima:" << mass[0] << endl;
     
