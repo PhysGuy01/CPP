@@ -1,9 +1,12 @@
 CC = g++
 
 
-all: es2 es3 es4
+all: struct_prodotto struct_vettore
 
-es2: es2_lez7.cpp
+struct_prodotto: struct_prodotto.cpp
+	$(CC) -o $@ $<
+
+struct_vettore: struct_vettore.cpp
 	$(CC) -o $@ $<
 
 es3: es3_lez7.cpp
