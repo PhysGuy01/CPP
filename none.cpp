@@ -8,7 +8,7 @@ int main(){
     double y = 2.0;
     double pp = 2 * x + 2 * y;
     cout << "2p: " << 2 * x + 2 * y << endl;
-    
+    return 0;
 }
 
 // remember to put output name: -o [name]

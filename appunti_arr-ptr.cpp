@@ -15,20 +15,21 @@ using namespace std;
 
 int main() {
     // EX: numero ignoto di elementi
-    const int N = 10000 // = dimensione max
-    double v[N], x;
+    const int N = 10000; // = dimensione max
+    double v[N], x, sum;
+    int n;
     for (;;) {
         if (cin.eof() || n > N - 1) break;
         v[n] = x;                               // OK ma non ottimale perche' spreca memoria soprattutto n << N
         n++;
     }    
     for (int i = 0; i < n; i++) {   
-        sum += v[i]                             // secondo motivo per cui non e' ottimale: conveniva salvare i valori in una variabile sum
+        sum += v[i];                             // secondo motivo per cui non e' ottimale: conveniva salvare i valori in una variabile sum
     }
     cout << sum / n;
 
     // possso definire gli array in linea cosi':
-    double p[3] = {2.0, 2.5, 3.7}; // oppure ometto 3
+    double w[3] = {2.0, 2.5, 3.7}; // oppure ometto 3
     int l[10] = {0}; // associa 0 ad ogni posizione
 
     // posso anche definire degli array in due dimensioni cosi':
@@ -42,7 +43,7 @@ int main() {
 
 
     // max value in array:
-    double v[n];
+    double v[N];
     double max = v[0];
     for (int i = 1; i < n; i++) {
         if (v[i] > max) max = v[i]; // min: if (v[i] < min) min = v[i]
@@ -77,7 +78,7 @@ int main() {
 
 //  Ex. Assegnare indirizzo al puntatore;       | &x198..|   | 5 |   |
     int x = 5;      //                              p          x
-    int* p;
+    double *p;
     p = &x;
 
     cout << x << endl;      // --> 5
@@ -108,7 +109,7 @@ int main() {
     int *v = new int[2];
 
     // Deallocation...
-    delete[] v  // ??
+    delete[] v;  // ??
 
 // Operazioni con puntatori
     // int *p, *q;
