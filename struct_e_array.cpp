@@ -7,13 +7,13 @@ using namespace std;
 
 // Stack
 struct puntoArrStack {
-    doule xcoord[2]; //  0 == x e 1 == y
+    double xcoord[2]; //  0 == x e 1 == y
 };
 
 // Heap
 struct puntoArrHeap {
     double* xcoord;
-}
+};
 
 
 // Array di Struct
@@ -45,13 +45,13 @@ int main() {
     delete[] p;
 
     // posso scrivere:
-    punto p;
-    p.x = 7;
-    p.y = 6; 
+    punto c;
+    c.x = 7;
+    c.y = 6; 
     // oppure 
     punto *p = new punto;
     p -> x = 7;
-    p -> x = 6;
+    p -> y = 6;
 
 
     return 0;

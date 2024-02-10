@@ -1,5 +1,6 @@
 // abbiamo un data.dat
 #include<iostream>
+#include <fstream>
 using namespace std;
 
 int main(){
@@ -13,12 +14,12 @@ int main(){
         count++;
     } //conteggio linee di un file
     //oppure
-    while(f.peak() != EOF){
+    while(f.peek() != EOF){
         getline(f,tmp);
         count++;
     }
     // per tornare all'inizio del file:
-    f.clean(); // ??
+    f.clear(); // ??
     f.seekg(0);
     // ...
 }

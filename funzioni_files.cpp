@@ -44,8 +44,9 @@ g++ -o prog functions.o main.o (??? .o?)
 
 // stringstream per salvare i log dell'out
 
-#include<sstring>
-#include<iostream>
+#include <sstream>
+#include <fstream>
+#include <iostream>
 
 using namespace std;
 
