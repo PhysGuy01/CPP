@@ -52,17 +52,17 @@ using namespace std;
 
 
 // stampa su schermo e su un file txt separato
-void print(stringstream &v) {
-    cout << v.str();
+void print(stringstream &a) {
+    cout << a.str();
     fstream f;
-    f.open("files.txt");
-    f << v.str();
+    f.open("files.txt", ios::out);
+    f << a.str();
 }
 int main(){
     stringstream ss;
     ss << "Hello" << "hi" <</*etc*/ endl;
-    cout << ss.str();
-    string a = ss.str();
+    //cout << ss.str();
+    //string a = ss.str();
     print(ss);
     
     return 0;

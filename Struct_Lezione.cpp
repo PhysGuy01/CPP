@@ -20,8 +20,8 @@ struct punto {
 
 // Ex.3
 struct constants {
-    double pi = 3.141592653589
-    double hbar = 1.05e-34
+    double pi = 3.141592653589;
+    double hbar = 1.05e-34;
 } myconst; // --> variabile globale
 
 
@@ -40,6 +40,6 @@ int main(){
     a.y = 10;   
 
     // ma posso fare:
-    b = a   // ==> {b.x = a.x e b.y = a.y} copia tutti gli elementi di a in b
+    b = a;   // ==> {b.x = a.x e b.y = a.y} copia tutti gli elementi di a in b
     return 0;
 }

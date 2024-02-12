@@ -19,5 +19,11 @@ struct mano
     int punti;
 };
 
-// stampa su schermo e su un file txt separato
-void print(stringstream v);
+void print(stringstream &v);
+int numeroPro(giocatore *g, int &n);
+string isProAma(giocatore g);
+void stampaGiocatori(giocatore *g, int &n);
+void ordinaGiocatori(giocatore *g, int &n);
+int codiceAGiocatore(giocatore *g, int codice, int &n);
+void stampaClassifica(mano *classificati, int &p);
+void ordinaClassificati(mano *classificati, int &p);

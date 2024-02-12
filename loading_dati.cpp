@@ -1,6 +1,7 @@
 // abbiamo un data.dat
-#include<iostream>
+#include <iostream>
 #include <fstream>
+#include <string>
 using namespace std;
 
 int main(){
@@ -22,4 +23,5 @@ int main(){
     f.clear(); // ??
     f.seekg(0);
     // ...
+    cout << count << endl;
 }
