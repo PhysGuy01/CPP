@@ -1,4 +1,4 @@
-.PHONY: all esegui compila clean
+.PHONY: all clean
 
 all: compila esegui
 
@@ -6,7 +6,7 @@ compila: funzioni.cpp main.cpp
 	@${CXX} -o prog $^
 
 esegui: compila
-	@./prog 
+	@./prog
 
-clean: 
+clean:
 	@rm -f prog

@@ -9,4 +9,4 @@ esegui: compila
 	@./prog 
 
 clean: 
-	rm -f prog
+	@rm -f prog

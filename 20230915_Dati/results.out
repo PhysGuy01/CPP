@@ -1,0 +1,103 @@
+Bersagli caricati: 24
+Bersagli distrutti: 4
+Bersagli non distrutti: 20
+
+
+Primi tre bersagli non distrutti: 
+
+Bersaglio #1
+	x: 679.82
+	y: -379.579
+	cor: 1
+
+Bersaglio #2
+	x: 628.654
+	y: 106.193
+	cor: 3
+
+Bersaglio #3
+	x: 813.169
+	y: 303.502
+	cor: 12
+
+
+Primi tre bersagli distrutti: 
+
+Bersaglio #1
+	x: 836.681
+	y: 92.8114
+	cor: -2
+
+Bersaglio #2
+	x: 806.942
+	y: -87.6272
+	cor: -4
+
+Bersaglio #3
+	x: 288.088
+	y: 92.956
+	cor: -3
+
+
+Primi tre colpi sparati: 
+
+Colpo #1
+	Theta = 0.621
+	Phi = -0.164
+	(xf, yf) = (951.817, -157.513)
+	colpito: 0
+
+Colpo #2
+	Theta = 0.332
+	Phi = -0.353
+	(xf, yf) = (589.472, -217.18)
+	colpito: 0
+
+Colpo #3
+	Theta = 0.678
+	Phi = -0.062
+	(xf, yf) = (994.029, -61.7089)
+	colpito: 0
+
+Colpo #3
+	Theta = 0.678
+	Phi = -0.062
+	(xf, yf) = (994.029, -61.7089)
+	colpito: 0
+
+
+Ultimi tre colpi sparati: 
+Colpo #108
+	Theta = 0.66
+	Phi = -0.068
+	(xf, yf) = (985.195, -67.0967)
+	colpito: 0
+Colpo #109
+	Theta = 0.367
+	Phi = 0.319
+	(xf, yf) = (648.37, 214.144)
+	colpito: 0
+Colpo #110
+	Theta = 0.538
+	Phi = -0.073
+	(xf, yf) = (894.721, -65.4309)
+	colpito: 0
+
+
+Bersagli distrutti: 20
+Danno totale inflitto: 47.7765
+Colpi andati a segno: 66
+Distanza max: 999.292
+Distanza min: 214.491
+
+Il colpo più lontano è il #72
+	Theta = 0.686
+	Phi = -0.066
+	(xf, yf) = (997.116, -65.9054)
+	colpito: 0
+
+Il colpo più vicino è il #74
+	Theta = 0.106
+	Phi = -0.097
+	(xf, yf) = (213.483, -20.773)
+	colpito: 0

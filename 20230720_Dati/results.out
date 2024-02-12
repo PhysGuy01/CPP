@@ -1,0 +1,75 @@
+Numero di misure: 300
+Numero di misure con carica positiva: 130
+Numero di misure con carica neutra: 19
+Numero di misure con carica negativa: 151
+
+% Misure con carica positiva: 43.3333
+% Misure con carica neutra: 6.33333
+% Misure con carica negativa: 50.3333
+
+Eta della misura #1: 0.344282
+Eta della misura #2: -0.0372174
+Eta della misura #3: 0.174227
+Eta della misura #4: 0.328703
+Eta della misura #5: -0.037704
+Misura #1
+	Quadrimpulso (E,px,py,pz): (4.70348, 0.513776, -1.98055, -2.62264)
+	Carica: 9
+	Eta: -0.629339
+
+Misura #2
+	Quadrimpulso (E,px,py,pz): (3.17574, 0.303604, 0.772695, -1.6616)
+	Carica: 2
+	Eta: -0.580757
+
+Misura #3
+	Quadrimpulso (E,px,py,pz): (4.72843, 0.286204, -1.00733, -2.21939)
+	Carica: 5
+	Eta: -0.509264
+
+Misura #298
+	Quadrimpulso (E,px,py,pz): (3.41751, 2.2436, -1.4228, 1.92233)
+	Carica: 2
+	Eta: 0.636473
+
+Misura #299
+	Quadrimpulso (E,px,py,pz): (3.84265, -0.312292, -0.157667, 2.25672)
+	Carica: -9
+	Eta: 0.67351
+
+Misura #300
+	Quadrimpulso (E,px,py,pz): (3.20919, -1.81967, -2.14843, 2.28329)
+	Carica: -4
+	Eta: 0.890184
+
+
+Analisi dati misure generali:
+
+Media: -0.00139467
+Dev Std: 0.224748
+Massimo: 0.890184
+Minimo: -0.629339
+
+
+Analisi cariche positive:
+
+Media: -0.0313314
+Dev Std: 0.219671
+Massimo: 0.636473
+Minimo: -0.629339
+
+
+Analisi cariche neutre:
+
+Media: 0.0279508
+Dev Std: 0.189372
+Massimo: 0.350592
+Minimo: -0.322664
+
+
+Analisi cariche negative:
+
+Media: 0.0206862
+Dev Std: 0.230066
+Massimo: 0.890184
+Minimo: -0.486268
