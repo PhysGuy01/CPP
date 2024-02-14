@@ -1,0 +1,490 @@
+
+Numero di misurazioni: 1110
+Numero di segnali: 123
+	Perc. sul tot: 11.0811%
+Numero di eventi di background: 987
+	Perc. sul tot: 88.9189%
+
+Evento #1
+	Massa invariante: 185.747
+Evento #2
+	Massa invariante: 149.881
+Evento #3
+	Massa invariante: 122.642
+Evento #4
+	Massa invariante: 186.364
+Evento #5
+	Massa invariante: 79.8338
+Evento #6
+	Massa invariante: 103.389
+Evento #7
+	Massa invariante: 118.433
+Evento #8
+	Massa invariante: 140.756
+Evento #9
+	Massa invariante: 114.972
+Evento #10
+	Massa invariante: 130.55
+
+Prime quattro misure: 
+Misura #1
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0022, -25.0055, 16.6704, 10.0022)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0088, 25.0055, -16.6704, -10.0022)
+Segnale: 0
+Massa Invariante: 50.0111
+
+Misura #2
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.011, -25.0276, 16.685, 10.011)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0441, 25.0276, -16.685, -10.011)
+Segnale: 0
+Massa Invariante: 50.0551
+
+Misura #3
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0478, -25.1196, 16.7464, 10.0478)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.1913, 25.1196, -16.7464, -10.0478)
+Segnale: 0
+Massa Invariante: 50.2392
+
+Misura #4
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.1113, -25.2782, 16.8522, 10.1113)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.4452, 25.2782, -16.8522, -10.1113)
+Segnale: 0
+Massa Invariante: 50.5565
+
+
+
+Ultime quattro misure: 
+Misura #1107
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9407, -99.8517, 66.5678, 39.9407)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.763, 99.8517, -66.5678, -39.9407)
+Segnale: 0
+Massa Invariante: 199.703
+
+Misura #1108
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.946, -99.8649, 66.5766, 39.946)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.784, 99.8649, -66.5766, -39.946)
+Segnale: 0
+Massa Invariante: 199.73
+
+Misura #1109
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9506, -99.8766, 66.5844, 39.9506)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.803, 99.8766, -66.5844, -39.9506)
+Segnale: 0
+Massa Invariante: 199.753
+
+Misura #1110
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9558, -99.8895, 66.593, 39.9558)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.823, 99.8895, -66.593, -39.9558)
+Segnale: 0
+Massa Invariante: 199.779
+
+
+Analisi di tutte le masse invarianti:
+Media totale: 126.291
+Dev Std Tot: 41.7639
+Max totale: 199.779
+Min totale: 50.0111
+
+Analisi delle masse invarianti dei segnali:
+Media ev. Segnale: 124.781
+Dev Std ev. Segnale: 5.0856
+Max ev. Segnale: 136.422
+Min ev. Segnale: 113.529
+
+Analisi delle masse invarianti del background:
+Media ev. background: 126.479
+Dev Std ev. background: 44.2498
+Max ev. background: 199.779
+Min ev. background: 50.0111
+
+Numero di misurazioni: 1110
+Numero di segnali: 123
+	Perc. sul tot: 11.0811%
+Numero di eventi di background: 987
+	Perc. sul tot: 88.9189%
+
+Evento #1
+	Massa invariante: 185.747
+Evento #2
+	Massa invariante: 149.881
+Evento #3
+	Massa invariante: 122.642
+Evento #4
+	Massa invariante: 186.364
+Evento #5
+	Massa invariante: 79.8338
+Evento #6
+	Massa invariante: 103.389
+Evento #7
+	Massa invariante: 118.433
+Evento #8
+	Massa invariante: 140.756
+Evento #9
+	Massa invariante: 114.972
+Evento #10
+	Massa invariante: 130.55
+
+Prime quattro misure: 
+Misura #1
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0022, -25.0055, 16.6704, 10.0022)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0088, 25.0055, -16.6704, -10.0022)
+Segnale: 0
+Massa Invariante: 50.0111
+
+Misura #2
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.011, -25.0276, 16.685, 10.011)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0441, 25.0276, -16.685, -10.011)
+Segnale: 0
+Massa Invariante: 50.0551
+
+Misura #3
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0478, -25.1196, 16.7464, 10.0478)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.1913, 25.1196, -16.7464, -10.0478)
+Segnale: 0
+Massa Invariante: 50.2392
+
+Misura #4
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.1113, -25.2782, 16.8522, 10.1113)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.4452, 25.2782, -16.8522, -10.1113)
+Segnale: 0
+Massa Invariante: 50.5565
+
+
+
+Ultime quattro misure: 
+Misura #1107
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9407, -99.8517, 66.5678, 39.9407)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.763, 99.8517, -66.5678, -39.9407)
+Segnale: 0
+Massa Invariante: 199.703
+
+Misura #1108
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.946, -99.8649, 66.5766, 39.946)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.784, 99.8649, -66.5766, -39.946)
+Segnale: 0
+Massa Invariante: 199.73
+
+Misura #1109
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9506, -99.8766, 66.5844, 39.9506)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.803, 99.8766, -66.5844, -39.9506)
+Segnale: 0
+Massa Invariante: 199.753
+
+Misura #1110
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9558, -99.8895, 66.593, 39.9558)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.823, 99.8895, -66.593, -39.9558)
+Segnale: 0
+Massa Invariante: 199.779
+
+
+Analisi di tutte le masse invarianti:
+Media totale: 126.291
+Dev Std Tot: 41.7639
+Max totale: 199.779
+Min totale: 50.0111
+
+Analisi delle masse invarianti dei segnali:
+Media ev. Segnale: 124.781
+Dev Std ev. Segnale: 5.0856
+Max ev. Segnale: 136.422
+Min ev. Segnale: 113.529
+
+Analisi delle masse invarianti del background:
+Media ev. background: 126.479
+Dev Std ev. background: 44.2498
+Max ev. background: 199.779
+Min ev. background: 50.0111
+
+Numero di misurazioni: 1110
+Numero di segnali: 123
+	Perc. sul tot: 11.0811%
+Numero di eventi di background: 987
+	Perc. sul tot: 88.9189%
+
+Evento #1
+	Massa invariante: 185.747
+Evento #2
+	Massa invariante: 149.881
+Evento #3
+	Massa invariante: 122.642
+Evento #4
+	Massa invariante: 186.364
+Evento #5
+	Massa invariante: 79.8338
+Evento #6
+	Massa invariante: 103.389
+Evento #7
+	Massa invariante: 118.433
+Evento #8
+	Massa invariante: 140.756
+Evento #9
+	Massa invariante: 114.972
+Evento #10
+	Massa invariante: 130.55
+
+Prime quattro misure: 
+Misura #1
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0022, -25.0055, 16.6704, 10.0022)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0088, 25.0055, -16.6704, -10.0022)
+Segnale: 0
+Massa Invariante: 50.0111
+
+Misura #2
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.011, -25.0276, 16.685, 10.011)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0441, 25.0276, -16.685, -10.011)
+Segnale: 0
+Massa Invariante: 50.0551
+
+Misura #3
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0478, -25.1196, 16.7464, 10.0478)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.1913, 25.1196, -16.7464, -10.0478)
+Segnale: 0
+Massa Invariante: 50.2392
+
+Misura #4
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.1113, -25.2782, 16.8522, 10.1113)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.4452, 25.2782, -16.8522, -10.1113)
+Segnale: 0
+Massa Invariante: 50.5565
+
+
+
+Ultime quattro misure: 
+Misura #1107
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9407, -99.8517, 66.5678, 39.9407)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.763, 99.8517, -66.5678, -39.9407)
+Segnale: 0
+Massa Invariante: 199.703
+
+Misura #1108
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.946, -99.8649, 66.5766, 39.946)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.784, 99.8649, -66.5766, -39.946)
+Segnale: 0
+Massa Invariante: 199.73
+
+Misura #1109
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9506, -99.8766, 66.5844, 39.9506)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.803, 99.8766, -66.5844, -39.9506)
+Segnale: 0
+Massa Invariante: 199.753
+
+Misura #1110
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9558, -99.8895, 66.593, 39.9558)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.823, 99.8895, -66.593, -39.9558)
+Segnale: 0
+Massa Invariante: 199.779
+
+
+Analisi di tutte le masse invarianti:
+Media totale: 126.291
+Dev Std Tot: 41.7639
+Max totale: 199.779
+Min totale: 50.0111
+
+Analisi delle masse invarianti dei segnali:
+Media ev. Segnale: 124.781
+Dev Std ev. Segnale: 5.0856
+Max ev. Segnale: 136.422
+Min ev. Segnale: 113.529
+
+Analisi delle masse invarianti del background:
+Media ev. background: 126.479
+Dev Std ev. background: 44.2498
+Max ev. background: 199.779
+Min ev. background: 50.0111
+
+Numero di misurazioni: 1110
+Numero di segnali: 123
+	Perc. sul tot: 11.0811%
+Numero di eventi di background: 987
+	Perc. sul tot: 88.9189%
+
+Evento #1
+	Massa invariante: 185.747
+Evento #2
+	Massa invariante: 149.881
+Evento #3
+	Massa invariante: 122.642
+Evento #4
+	Massa invariante: 186.364
+Evento #5
+	Massa invariante: 79.8338
+Evento #6
+	Massa invariante: 103.389
+Evento #7
+	Massa invariante: 118.433
+Evento #8
+	Massa invariante: 140.756
+Evento #9
+	Massa invariante: 114.972
+Evento #10
+	Massa invariante: 130.55
+
+Prime quattro misure: 
+Misura #1
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0022, -25.0055, 16.6704, 10.0022)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0088, 25.0055, -16.6704, -10.0022)
+Segnale: 0
+Massa Invariante: 50.0111
+
+Misura #2
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.011, -25.0276, 16.685, 10.011)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0441, 25.0276, -16.685, -10.011)
+Segnale: 0
+Massa Invariante: 50.0551
+
+Misura #3
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0478, -25.1196, 16.7464, 10.0478)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.1913, 25.1196, -16.7464, -10.0478)
+Segnale: 0
+Massa Invariante: 50.2392
+
+Misura #4
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.1113, -25.2782, 16.8522, 10.1113)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.4452, 25.2782, -16.8522, -10.1113)
+Segnale: 0
+Massa Invariante: 50.5565
+
+
+
+Ultime quattro misure: 
+Misura #1107
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9407, -99.8517, 66.5678, 39.9407)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.763, 99.8517, -66.5678, -39.9407)
+Segnale: 0
+Massa Invariante: 199.703
+
+Misura #1108
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.946, -99.8649, 66.5766, 39.946)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.784, 99.8649, -66.5766, -39.946)
+Segnale: 0
+Massa Invariante: 199.73
+
+Misura #1109
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9506, -99.8766, 66.5844, 39.9506)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.803, 99.8766, -66.5844, -39.9506)
+Segnale: 0
+Massa Invariante: 199.753
+
+Misura #1110
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9558, -99.8895, 66.593, 39.9558)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.823, 99.8895, -66.593, -39.9558)
+Segnale: 0
+Massa Invariante: 199.779
+
+
+Analisi di tutte le masse invarianti:
+Media totale: 126.291
+Dev Std Tot: 41.7639
+Max totale: 199.779
+Min totale: 50.0111
+
+Analisi delle masse invarianti dei segnali:
+Media ev. Segnale: 124.781
+Dev Std ev. Segnale: 5.0856
+Max ev. Segnale: 136.422
+Min ev. Segnale: 113.529
+
+Analisi delle masse invarianti del background:
+Media ev. background: 126.479
+Dev Std ev. background: 44.2498
+Max ev. background: 199.779
+Min ev. background: 50.0111
+
+Numero di misurazioni: 1110
+Numero di segnali: 123
+	Perc. sul tot: 11.0811%
+Numero di eventi di background: 987
+	Perc. sul tot: 88.9189%
+
+Evento #1
+	Massa invariante: 185.747
+Evento #2
+	Massa invariante: 149.881
+Evento #3
+	Massa invariante: 122.642
+Evento #4
+	Massa invariante: 186.364
+Evento #5
+	Massa invariante: 79.8338
+Evento #6
+	Massa invariante: 103.389
+Evento #7
+	Massa invariante: 118.433
+Evento #8
+	Massa invariante: 140.756
+Evento #9
+	Massa invariante: 114.972
+Evento #10
+	Massa invariante: 130.55
+
+Prime quattro misure: 
+Misura #1
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0022, -25.0055, 16.6704, 10.0022)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0088, 25.0055, -16.6704, -10.0022)
+Segnale: 0
+Massa Invariante: 50.0111
+
+Misura #2
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.011, -25.0276, 16.685, 10.011)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.0441, 25.0276, -16.685, -10.011)
+Segnale: 0
+Massa Invariante: 50.0551
+
+Misura #3
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.0478, -25.1196, 16.7464, 10.0478)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.1913, 25.1196, -16.7464, -10.0478)
+Segnale: 0
+Massa Invariante: 50.2392
+
+Misura #4
+Energia-momento part 1 (E1, p1x, p1y, p1z): (10.1113, -25.2782, 16.8522, 10.1113)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (40.4452, 25.2782, -16.8522, -10.1113)
+Segnale: 0
+Massa Invariante: 50.5565
+
+
+
+Ultime quattro misure: 
+Misura #1107
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9407, -99.8517, 66.5678, 39.9407)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.763, 99.8517, -66.5678, -39.9407)
+Segnale: 0
+Massa Invariante: 199.703
+
+Misura #1108
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.946, -99.8649, 66.5766, 39.946)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.784, 99.8649, -66.5766, -39.946)
+Segnale: 0
+Massa Invariante: 199.73
+
+Misura #1109
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9506, -99.8766, 66.5844, 39.9506)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.803, 99.8766, -66.5844, -39.9506)
+Segnale: 0
+Massa Invariante: 199.753
+
+Misura #1110
+Energia-momento part 1 (E1, p1x, p1y, p1z): (39.9558, -99.8895, 66.593, 39.9558)
+Energia-momento part 2 (E2, p2x, p2y, p2z): (159.823, 99.8895, -66.593, -39.9558)
+Segnale: 0
+Massa Invariante: 199.779
+
+
+Analisi di tutte le masse invarianti:
+Media totale: 126.291
+Dev Std Tot: 41.7639
+Max totale: 199.779
+Min totale: 50.0111
+
+Analisi delle masse invarianti dei segnali:
+Media ev. Segnale: 124.781
+Dev Std ev. Segnale: 5.0856
+Max ev. Segnale: 136.422
+Min ev. Segnale: 113.529
+
+Analisi delle masse invarianti del background:
+Media ev. background: 126.479
+Dev Std ev. background: 44.2498
+Max ev. background: 199.779
+Min ev. background: 50.0111
