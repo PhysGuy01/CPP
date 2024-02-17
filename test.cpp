@@ -1,27 +1,23 @@
 #include <iostream>
 #include <vector>
-#include <limits>
+
 using namespace std;
 
-int main() {
-    vector<int> vec = {0, 1};
-    cout << "Enter n: ";
-    int n;
-    cin >> n;
 
-    while(cin.fail()){
-        cin.clear();
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        cout << "errore, reinserire: ";
-        cin >> n;
+int main(){
+    int a;
+    cout << "Inserisci un numero: ";
+    cin >> a;
+    cout << "first even fib numbers smaller than " << a << ": ";
+    vector<int> fibs = {0, 1};
+
+    for (int i = 1; i < a; i++)
+        fibs.push_back(fibs[i] + fibs[i - 1]);
+    for (int i = 0; i < a && fibs[i] < a; i++){
+        if (fibs[i] % 2 == 0)
+            cout << " " << fibs[i];
     }
-
-    vector<int> fib = {0, 1};
-    for (int i = 1; i < n; i++) 
-        fib.push_back(fib[i - 1] + fib[i]);
-    
-    for (int i = 0; i < n; i++) 
-        cout << fib[i] << ", ";
+            
 
     return 0;
 }

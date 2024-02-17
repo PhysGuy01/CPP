@@ -1,0 +1,72 @@
+
+Numero di eventi tot: 700
+Numero di eventi di tipo segnale: 169
+	-Perc. sul tot: 24
+Numero di eventi di tipo background: 531
+	-Perc. sul tot: 75
+
+Massa invariante evento #1: 153.697
+Massa invariante evento #2: 130.025
+Massa invariante evento #3: 159.27
+Massa invariante evento #4: 99.3866
+Massa invariante evento #5: 100.393
+Massa invariante evento #696: 126.235
+Massa invariante evento #697: 166.147
+Massa invariante evento #698: 127.541
+Massa invariante evento #699: 173.996
+Massa invariante evento #700: 120
+Evento #1
+	Energia-momento p1: (10.0199, -24.2132, 16.2223, 8.30017)
+	Energia-momento p2: (40.0797, 26.2523, -15.4373, -7.71443)
+	Segnale: 0
+	Massa invariante: 50.0485
+	Pseudo-rapiditià: 0
+Evento #2
+	Energia-momento p1: (10.0619, -25.3486, 17.2716, 10.2605)
+	Energia-momento p2: (40.2478, 25.798, -16.8108, -11.3942)
+	Segnale: 0
+	Massa invariante: 50.2928
+	Pseudo-rapiditià: 0
+Evento #3
+	Energia-momento p1: (10.1396, -23.8817, 18.3104, 10.6711)
+	Energia-momento p2: (40.5586, 27.0843, -16.6011, -9.0965)
+	Segnale: 0
+	Massa invariante: 50.5436
+	Pseudo-rapiditià: 0
+Evento #4
+	Energia-momento p1: (10.1593, -26.6659, 16.0005, 9.36005)
+	Energia-momento p2: (40.6372, 25.5237, -17.7081, -9.86547)
+	Segnale: 0
+	Massa invariante: 50.7524
+	Pseudo-rapiditià: 0
+Evento #697
+	Energia-momento p1: (39.8821, -99.9533, 66.939, 40.2043)
+	Energia-momento p2: (159.529, 99.1879, -66.3434, -38.9878)
+	Segnale: 0
+	Massa invariante: 199.405
+	Pseudo-rapiditià: 0
+Evento #698
+	Energia-momento p1: (39.9407, -98.6838, 67.9, 39.2147)
+	Energia-momento p2: (159.763, 100.883, -67.3162, -40.0641)
+	Segnale: 0
+	Massa invariante: 199.689
+	Pseudo-rapiditià: 0
+Evento #699
+	Energia-momento p1: (39.9398, -100.463, 65.9879, 41.3122)
+	Energia-momento p2: (159.759, 99.8185, -66.5316, -40.4068)
+	Segnale: 0
+	Massa invariante: 199.695
+	Pseudo-rapiditià: 0
+Evento #700
+	Energia-momento p1: (39.9943, -100.865, 65.7604, 39.4641)
+	Energia-momento p2: (159.977, 99.4958, -66.105, -39.3777)
+	Segnale: 0
+	Massa invariante: 199.966
+	Pseudo-rapiditià: 0
+
+Media delle masse di eventi di tipo segnale: 124.598
+Deviazione std delle masse di eventi di tipo segnale: 5.05411
+
+
+Media delle eta: -0.00216219
+Deviazione std delle eta: 0.0110125
