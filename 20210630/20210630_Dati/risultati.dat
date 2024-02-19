@@ -1,0 +1,315 @@
+Numero di linfociti caricati: 10
+
+----------------------------------------------
+
+Linfociti caricati: 
+
+Linfocita #1
+	Coordinate: (0.2, 0)
+	N° di batteri fagocitabili: 20
+	Raggio: 1.31
+	ID: a
+	N° di batteri fagocitati: 0
+
+Linfocita #2
+	Coordinate: (4.2, 0)
+	N° di batteri fagocitabili: 17
+	Raggio: 0.61
+	ID: b
+	N° di batteri fagocitati: 0
+
+Linfocita #3
+	Coordinate: (8.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 1.28
+	ID: c
+	N° di batteri fagocitati: 0
+
+Linfocita #4
+	Coordinate: (12.2, 0)
+	N° di batteri fagocitabili: 18
+	Raggio: 0.68
+	ID: d
+	N° di batteri fagocitati: 0
+
+Linfocita #5
+	Coordinate: (16.2, 0)
+	N° di batteri fagocitabili: 12
+	Raggio: 0.74
+	ID: e
+	N° di batteri fagocitati: 0
+
+Linfocita #6
+	Coordinate: (20.2, 0)
+	N° di batteri fagocitabili: 11
+	Raggio: 0.56
+	ID: f
+	N° di batteri fagocitati: 0
+
+Linfocita #7
+	Coordinate: (24.2, 0)
+	N° di batteri fagocitabili: 15
+	Raggio: 1.04
+	ID: g
+	N° di batteri fagocitati: 0
+
+Linfocita #8
+	Coordinate: (28.2, 0)
+	N° di batteri fagocitabili: 18
+	Raggio: 0.73
+	ID: h
+	N° di batteri fagocitati: 0
+
+Linfocita #9
+	Coordinate: (32.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 0.89
+	ID: i
+	N° di batteri fagocitati: 0
+
+Linfocita #10
+	Coordinate: (36.2, 0)
+	N° di batteri fagocitabili: 16
+	Raggio: 1.2
+	ID: j
+	N° di batteri fagocitati: 0
+
+
+----------------------------------------------
+
+
+Linfociti aggiornati in ordine decrescente di capacità: 
+
+Linfocita #1
+	Coordinate: (4.2, 0)
+	N° di batteri fagocitabili: 14
+	Raggio: 0.61
+	ID: b
+	N° di batteri fagocitati: 3
+
+Linfocita #2
+	Coordinate: (28.2, 0)
+	N° di batteri fagocitabili: 13
+	Raggio: 0.73
+	ID: h
+	N° di batteri fagocitati: 5
+
+Linfocita #3
+	Coordinate: (12.2, 0)
+	N° di batteri fagocitabili: 12
+	Raggio: 0.68
+	ID: d
+	N° di batteri fagocitati: 6
+
+Linfocita #4
+	Coordinate: (0.2, 0)
+	N° di batteri fagocitabili: 12
+	Raggio: 1.31
+	ID: a
+	N° di batteri fagocitati: 8
+
+Linfocita #5
+	Coordinate: (24.2, 0)
+	N° di batteri fagocitabili: 11
+	Raggio: 1.04
+	ID: g
+	N° di batteri fagocitati: 4
+
+Linfocita #6
+	Coordinate: (20.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 0.56
+	ID: f
+	N° di batteri fagocitati: 1
+
+Linfocita #7
+	Coordinate: (8.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 1.28
+	ID: c
+	N° di batteri fagocitati: 0
+
+Linfocita #8
+	Coordinate: (16.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 0.74
+	ID: e
+	N° di batteri fagocitati: 2
+
+Linfocita #9
+	Coordinate: (36.2, 0)
+	N° di batteri fagocitabili: 10
+	Raggio: 1.2
+	ID: j
+	N° di batteri fagocitati: 6
+
+Linfocita #10
+	Coordinate: (32.2, 0)
+	N° di batteri fagocitabili: 7
+	Raggio: 0.89
+	ID: i
+	N° di batteri fagocitati: 3
+
+
+----------------------------------------------
+
+Batteri uccisi: 
+
+Batterio ucciso #1: 
+	Coordinate: (-0.7, 0.66)
+	Ucciso da: a
+
+Batterio ucciso #2: 
+	Coordinate: (-0.85, 0.08)
+	Ucciso da: a
+
+Batterio ucciso #3: 
+	Coordinate: (-0.27, -0.87)
+	Ucciso da: a
+
+Batterio ucciso #4: 
+	Coordinate: (0.67, 1.15)
+	Ucciso da: a
+
+Batterio ucciso #5: 
+	Coordinate: (0.12, 0.59)
+	Ucciso da: a
+
+Batterio ucciso #6: 
+	Coordinate: (-0.18, -0.1)
+	Ucciso da: a
+
+Batterio ucciso #7: 
+	Coordinate: (-0.26, -0.76)
+	Ucciso da: a
+
+Batterio ucciso #8: 
+	Coordinate: (0.27, 0.52)
+	Ucciso da: a
+
+Batterio ucciso #9: 
+	Coordinate: (4.08, 0.05)
+	Ucciso da: b
+
+Batterio ucciso #10: 
+	Coordinate: (4.06, -0.52)
+	Ucciso da: b
+
+Batterio ucciso #11: 
+	Coordinate: (4.08, -0.39)
+	Ucciso da: b
+
+Batterio ucciso #12: 
+	Coordinate: (11.68, 0.4)
+	Ucciso da: d
+
+Batterio ucciso #13: 
+	Coordinate: (12.23, 0.47)
+	Ucciso da: d
+
+Batterio ucciso #14: 
+	Coordinate: (11.83, 0.05)
+	Ucciso da: d
+
+Batterio ucciso #15: 
+	Coordinate: (12.47, 0.58)
+	Ucciso da: d
+
+Batterio ucciso #16: 
+	Coordinate: (12.54, -0.43)
+	Ucciso da: d
+
+Batterio ucciso #17: 
+	Coordinate: (12.33, -0.26)
+	Ucciso da: d
+
+Batterio ucciso #18: 
+	Coordinate: (15.79, -0.05)
+	Ucciso da: e
+
+Batterio ucciso #19: 
+	Coordinate: (16.19, 0.12)
+	Ucciso da: e
+
+Batterio ucciso #20: 
+	Coordinate: (20.67, 0.25)
+	Ucciso da: f
+
+Batterio ucciso #21: 
+	Coordinate: (24.61, 0.85)
+	Ucciso da: g
+
+Batterio ucciso #22: 
+	Coordinate: (24.43, 0.13)
+	Ucciso da: g
+
+Batterio ucciso #23: 
+	Coordinate: (23.84, 0.18)
+	Ucciso da: g
+
+Batterio ucciso #24: 
+	Coordinate: (24.65, -0.36)
+	Ucciso da: g
+
+Batterio ucciso #25: 
+	Coordinate: (27.65, -0.14)
+	Ucciso da: h
+
+Batterio ucciso #26: 
+	Coordinate: (27.92, -0.04)
+	Ucciso da: h
+
+Batterio ucciso #27: 
+	Coordinate: (28.26, 0.29)
+	Ucciso da: h
+
+Batterio ucciso #28: 
+	Coordinate: (27.97, 0.31)
+	Ucciso da: h
+
+Batterio ucciso #29: 
+	Coordinate: (28.9, 0.16)
+	Ucciso da: h
+
+Batterio ucciso #30: 
+	Coordinate: (32.32, 0.27)
+	Ucciso da: i
+
+Batterio ucciso #31: 
+	Coordinate: (32.77, 0.21)
+	Ucciso da: i
+
+Batterio ucciso #32: 
+	Coordinate: (32.61, -0.41)
+	Ucciso da: i
+
+Batterio ucciso #33: 
+	Coordinate: (36.89, 0)
+	Ucciso da: j
+
+Batterio ucciso #34: 
+	Coordinate: (35.3, 0.62)
+	Ucciso da: j
+
+Batterio ucciso #35: 
+	Coordinate: (36.72, 0.14)
+	Ucciso da: j
+
+Batterio ucciso #36: 
+	Coordinate: (36.87, -0.02)
+	Ucciso da: j
+
+Batterio ucciso #37: 
+	Coordinate: (36.89, 0.23)
+	Ucciso da: j
+
+Batterio ucciso #38: 
+	Coordinate: (37.01, -0.33)
+	Ucciso da: j
+
+
+----------------------------------------------
+
+Minima ascissa dei batteri: -2
+Massima ascissa dei batteri: 38
+

@@ -17,12 +17,12 @@ int main() {
     }
 
     vector<int> fib = {0, 1};
-    for (int i = 2; i < n; i++) 
-        fib.push_back(fib[i - 1] + fib[i - 2]);
+    for (int i = 1; fib.size() < n; i++) 
+        fib.push_back(fib[i] + fib[i - 1]);
     
     for (int i = 0; i < n; i++) 
         cout << fib[i] << ", ";
 
-    cout << fib.size();
+    cout << endl;
     return 0;
 }
