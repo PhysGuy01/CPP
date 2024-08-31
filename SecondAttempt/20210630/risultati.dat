@@ -1,0 +1,706 @@
+
+-------------------------
+
+ Linfociti caricati: 
+
+ Linfocita #1
+   Posizione: 0.2, 0
+   Capacità: 20
+   Raggio: 1.31
+   Identità: a
+   Batteri uccisi: 0
+
+ Linfocita #2
+   Posizione: 4.2, 0
+   Capacità: 17
+   Raggio: 0.61
+   Identità: b
+   Batteri uccisi: 0
+
+ Linfocita #3
+   Posizione: 8.2, 0
+   Capacità: 10
+   Raggio: 1.28
+   Identità: c
+   Batteri uccisi: 0
+
+ Linfocita #4
+   Posizione: 12.2, 0
+   Capacità: 18
+   Raggio: 0.68
+   Identità: d
+   Batteri uccisi: 0
+
+ Linfocita #5
+   Posizione: 16.2, 0
+   Capacità: 12
+   Raggio: 0.74
+   Identità: e
+   Batteri uccisi: 0
+
+ Linfocita #6
+   Posizione: 20.2, 0
+   Capacità: 11
+   Raggio: 0.56
+   Identità: f
+   Batteri uccisi: 0
+
+ Linfocita #7
+   Posizione: 24.2, 0
+   Capacità: 15
+   Raggio: 1.04
+   Identità: g
+   Batteri uccisi: 0
+
+ Linfocita #8
+   Posizione: 28.2, 0
+   Capacità: 18
+   Raggio: 0.73
+   Identità: h
+   Batteri uccisi: 0
+
+ Linfocita #9
+   Posizione: 32.2, 0
+   Capacità: 10
+   Raggio: 0.89
+   Identità: i
+   Batteri uccisi: 0
+
+ Linfocita #10
+   Posizione: 36.2, 0
+   Capacità: 16
+   Raggio: 1.2
+   Identità: j
+   Batteri uccisi: 0
+
+
+-------------------------
+
+ Batteri caricati: 
+
+Batterio #1
+   Posizione: -0.62, -2.02
+   Ucciso da: n
+
+Batterio #2
+   Posizione: -0.7, 0.66
+   Ucciso da: n
+
+Batterio #3
+   Posizione: -0.85, 0.08
+   Ucciso da: n
+
+Batterio #4
+   Posizione: -0.27, -0.87
+   Ucciso da: n
+
+Batterio #5
+   Posizione: 0.67, 1.15
+   Ucciso da: n
+
+Batterio #6
+   Posizione: 0.12, 0.59
+   Ucciso da: n
+
+Batterio #7
+   Posizione: -1.24, -0.12
+   Ucciso da: n
+
+Batterio #8
+   Posizione: -1.49, -0.37
+   Ucciso da: n
+
+Batterio #9
+   Posizione: -1.52, 0.56
+   Ucciso da: n
+
+Batterio #10
+   Posizione: -2.03, -0.6
+   Ucciso da: n
+
+Batterio #11
+   Posizione: 1.17, 1.99
+   Ucciso da: n
+
+Batterio #12
+   Posizione: -2.12, -1.12
+   Ucciso da: n
+
+Batterio #13
+   Posizione: -0.18, -0.1
+   Ucciso da: n
+
+Batterio #14
+   Posizione: -0.26, -0.76
+   Ucciso da: n
+
+Batterio #15
+   Posizione: 0.27, 0.52
+   Ucciso da: n
+
+Batterio #16
+   Posizione: 3.58, -0.5
+   Ucciso da: n
+
+Batterio #17
+   Posizione: 4.77, 0.52
+   Ucciso da: n
+
+Batterio #18
+   Posizione: 4.76, -0.52
+   Ucciso da: n
+
+Batterio #19
+   Posizione: 4.75, -0.78
+   Ucciso da: n
+
+Batterio #20
+   Posizione: 4.68, 0.54
+   Ucciso da: n
+
+Batterio #21
+   Posizione: 4.01, -0.78
+   Ucciso da: n
+
+Batterio #22
+   Posizione: 4.74, 0.86
+   Ucciso da: n
+
+Batterio #23
+   Posizione: 2.97, 1.43
+   Ucciso da: n
+
+Batterio #24
+   Posizione: 4.08, 0.05
+   Ucciso da: n
+
+Batterio #25
+   Posizione: 4.06, -0.52
+   Ucciso da: n
+
+Batterio #26
+   Posizione: 4.08, -0.39
+   Ucciso da: n
+
+Batterio #27
+   Posizione: 4.06, -1.01
+   Ucciso da: n
+
+Batterio #28
+   Posizione: 7.65, 2.6
+   Ucciso da: n
+
+Batterio #29
+   Posizione: 9.78, 0.72
+   Ucciso da: n
+
+Batterio #30
+   Posizione: 9, 1.86
+   Ucciso da: n
+
+Batterio #31
+   Posizione: 5.53, -0.93
+   Ucciso da: n
+
+Batterio #32
+   Posizione: 6.01, -0.3
+   Ucciso da: n
+
+Batterio #33
+   Posizione: 11.68, 0.4
+   Ucciso da: n
+
+Batterio #34
+   Posizione: 12.23, 0.47
+   Ucciso da: n
+
+Batterio #35
+   Posizione: 11.4, 0.33
+   Ucciso da: n
+
+Batterio #36
+   Posizione: 12.05, 0.74
+   Ucciso da: n
+
+Batterio #37
+   Posizione: 11.21, -0.06
+   Ucciso da: n
+
+Batterio #38
+   Posizione: 12.1, -0.99
+   Ucciso da: n
+
+Batterio #39
+   Posizione: 11.83, 0.05
+   Ucciso da: n
+
+Batterio #40
+   Posizione: 13.12, 0.11
+   Ucciso da: n
+
+Batterio #41
+   Posizione: 11.38, 0.85
+   Ucciso da: n
+
+Batterio #42
+   Posizione: 12.47, 0.58
+   Ucciso da: n
+
+Batterio #43
+   Posizione: 10.98, -1.07
+   Ucciso da: n
+
+Batterio #44
+   Posizione: 12.54, -0.43
+   Ucciso da: n
+
+Batterio #45
+   Posizione: 12.33, -0.26
+   Ucciso da: n
+
+Batterio #46
+   Posizione: 15.34, 0.32
+   Ucciso da: n
+
+Batterio #47
+   Posizione: 16.24, -0.89
+   Ucciso da: n
+
+Batterio #48
+   Posizione: 15.95, -1.09
+   Ucciso da: n
+
+Batterio #49
+   Posizione: 15.68, -1.85
+   Ucciso da: n
+
+Batterio #50
+   Posizione: 15.79, -0.05
+   Ucciso da: n
+
+Batterio #51
+   Posizione: 16.19, 0.12
+   Ucciso da: n
+
+Batterio #52
+   Posizione: 15.78, -0.66
+   Ucciso da: n
+
+Batterio #53
+   Posizione: 18.94, -0.28
+   Ucciso da: n
+
+Batterio #54
+   Posizione: 20.41, -0.67
+   Ucciso da: n
+
+Batterio #55
+   Posizione: 20.67, 0.25
+   Ucciso da: n
+
+Batterio #56
+   Posizione: 19.91, -0.74
+   Ucciso da: n
+
+Batterio #57
+   Posizione: 20.84, 0.16
+   Ucciso da: n
+
+Batterio #58
+   Posizione: 19.56, -0.61
+   Ucciso da: n
+
+Batterio #59
+   Posizione: 22.98, 1.34
+   Ucciso da: n
+
+Batterio #60
+   Posizione: 24.61, 0.85
+   Ucciso da: n
+
+Batterio #61
+   Posizione: 22.77, 0.56
+   Ucciso da: n
+
+Batterio #62
+   Posizione: 23.7, -1.49
+   Ucciso da: n
+
+Batterio #63
+   Posizione: 24.43, 0.13
+   Ucciso da: n
+
+Batterio #64
+   Posizione: 24.15, -1.53
+   Ucciso da: n
+
+Batterio #65
+   Posizione: 22.19, 0.17
+   Ucciso da: n
+
+Batterio #66
+   Posizione: 22.55, 0.11
+   Ucciso da: n
+
+Batterio #67
+   Posizione: 23.84, 0.18
+   Ucciso da: n
+
+Batterio #68
+   Posizione: 24.65, -0.36
+   Ucciso da: n
+
+Batterio #69
+   Posizione: 28.38, -0.87
+   Ucciso da: n
+
+Batterio #70
+   Posizione: 27.65, -0.14
+   Ucciso da: n
+
+Batterio #71
+   Posizione: 27.92, -0.04
+   Ucciso da: n
+
+Batterio #72
+   Posizione: 28.39, -0.76
+   Ucciso da: n
+
+Batterio #73
+   Posizione: 28.26, 0.29
+   Ucciso da: n
+
+Batterio #74
+   Posizione: 28.33, -0.75
+   Ucciso da: n
+
+Batterio #75
+   Posizione: 27.97, 0.31
+   Ucciso da: n
+
+Batterio #76
+   Posizione: 27.36, -0.84
+   Ucciso da: n
+
+Batterio #77
+   Posizione: 29.72, -0.5
+   Ucciso da: n
+
+Batterio #78
+   Posizione: 27.52, -0.33
+   Ucciso da: n
+
+Batterio #79
+   Posizione: 28.9, 0.16
+   Ucciso da: n
+
+Batterio #80
+   Posizione: 28.62, -0.72
+   Ucciso da: n
+
+Batterio #81
+   Posizione: 27.48, 0.81
+   Ucciso da: n
+
+Batterio #82
+   Posizione: 32.32, 0.27
+   Ucciso da: n
+
+Batterio #83
+   Posizione: 32.77, 0.21
+   Ucciso da: n
+
+Batterio #84
+   Posizione: 32.61, -0.41
+   Ucciso da: n
+
+Batterio #85
+   Posizione: 32.34, 2.04
+   Ucciso da: n
+
+Batterio #86
+   Posizione: 30.01, 0.98
+   Ucciso da: n
+
+Batterio #87
+   Posizione: 36.89, 0
+   Ucciso da: n
+
+Batterio #88
+   Posizione: 37.18, 2.67
+   Ucciso da: n
+
+Batterio #89
+   Posizione: 34.85, 1.18
+   Ucciso da: n
+
+Batterio #90
+   Posizione: 38.62, -0.63
+   Ucciso da: n
+
+Batterio #91
+   Posizione: 35.3, 0.62
+   Ucciso da: n
+
+Batterio #92
+   Posizione: 33.16, 0.86
+   Ucciso da: n
+
+Batterio #93
+   Posizione: 36.72, 0.14
+   Ucciso da: n
+
+Batterio #94
+   Posizione: 36.87, -0.02
+   Ucciso da: n
+
+Batterio #95
+   Posizione: 36.89, 0.23
+   Ucciso da: n
+
+Batterio #96
+   Posizione: 37.01, -0.33
+   Ucciso da: n
+
+Batterio #97
+   Posizione: 35.32, 0.94
+   Ucciso da: n
+
+
+-------------------------
+
+ Parametri dei linfociti aggiornati: 
+
+ Linfocita #1
+   Posizione: 4.2, 0
+   Capacità: 14
+   Raggio: 0.61
+   Identità: b
+   Batteri uccisi: 3
+
+ Linfocita #2
+   Posizione: 28.2, 0
+   Capacità: 13
+   Raggio: 0.73
+   Identità: h
+   Batteri uccisi: 5
+
+ Linfocita #3
+   Posizione: 12.2, 0
+   Capacità: 12
+   Raggio: 0.68
+   Identità: d
+   Batteri uccisi: 6
+
+ Linfocita #4
+   Posizione: 0.2, 0
+   Capacità: 12
+   Raggio: 1.31
+   Identità: a
+   Batteri uccisi: 8
+
+ Linfocita #5
+   Posizione: 24.2, 0
+   Capacità: 11
+   Raggio: 1.04
+   Identità: g
+   Batteri uccisi: 4
+
+ Linfocita #6
+   Posizione: 20.2, 0
+   Capacità: 10
+   Raggio: 0.56
+   Identità: f
+   Batteri uccisi: 1
+
+ Linfocita #7
+   Posizione: 8.2, 0
+   Capacità: 10
+   Raggio: 1.28
+   Identità: c
+   Batteri uccisi: 0
+
+ Linfocita #8
+   Posizione: 16.2, 0
+   Capacità: 10
+   Raggio: 0.74
+   Identità: e
+   Batteri uccisi: 2
+
+ Linfocita #9
+   Posizione: 36.2, 0
+   Capacità: 10
+   Raggio: 1.2
+   Identità: j
+   Batteri uccisi: 6
+
+ Linfocita #10
+   Posizione: 32.2, 0
+   Capacità: 7
+   Raggio: 0.89
+   Identità: i
+   Batteri uccisi: 3
+
+
+-------------------------
+
+ Parametri dei batteri fagocitati: 
+
+Batterio #2
+   Posizione: -0.7, 0.66
+   Ucciso da: a
+
+Batterio #3
+   Posizione: -0.85, 0.08
+   Ucciso da: a
+
+Batterio #4
+   Posizione: -0.27, -0.87
+   Ucciso da: a
+
+Batterio #5
+   Posizione: 0.67, 1.15
+   Ucciso da: a
+
+Batterio #6
+   Posizione: 0.12, 0.59
+   Ucciso da: a
+
+Batterio #13
+   Posizione: -0.18, -0.1
+   Ucciso da: a
+
+Batterio #14
+   Posizione: -0.26, -0.76
+   Ucciso da: a
+
+Batterio #15
+   Posizione: 0.27, 0.52
+   Ucciso da: a
+
+Batterio #24
+   Posizione: 4.08, 0.05
+   Ucciso da: b
+
+Batterio #25
+   Posizione: 4.06, -0.52
+   Ucciso da: b
+
+Batterio #26
+   Posizione: 4.08, -0.39
+   Ucciso da: b
+
+Batterio #33
+   Posizione: 11.68, 0.4
+   Ucciso da: d
+
+Batterio #34
+   Posizione: 12.23, 0.47
+   Ucciso da: d
+
+Batterio #39
+   Posizione: 11.83, 0.05
+   Ucciso da: d
+
+Batterio #42
+   Posizione: 12.47, 0.58
+   Ucciso da: d
+
+Batterio #44
+   Posizione: 12.54, -0.43
+   Ucciso da: d
+
+Batterio #45
+   Posizione: 12.33, -0.26
+   Ucciso da: d
+
+Batterio #50
+   Posizione: 15.79, -0.05
+   Ucciso da: e
+
+Batterio #51
+   Posizione: 16.19, 0.12
+   Ucciso da: e
+
+Batterio #55
+   Posizione: 20.67, 0.25
+   Ucciso da: f
+
+Batterio #60
+   Posizione: 24.61, 0.85
+   Ucciso da: g
+
+Batterio #63
+   Posizione: 24.43, 0.13
+   Ucciso da: g
+
+Batterio #67
+   Posizione: 23.84, 0.18
+   Ucciso da: g
+
+Batterio #68
+   Posizione: 24.65, -0.36
+   Ucciso da: g
+
+Batterio #70
+   Posizione: 27.65, -0.14
+   Ucciso da: h
+
+Batterio #71
+   Posizione: 27.92, -0.04
+   Ucciso da: h
+
+Batterio #73
+   Posizione: 28.26, 0.29
+   Ucciso da: h
+
+Batterio #75
+   Posizione: 27.97, 0.31
+   Ucciso da: h
+
+Batterio #79
+   Posizione: 28.9, 0.16
+   Ucciso da: h
+
+Batterio #82
+   Posizione: 32.32, 0.27
+   Ucciso da: i
+
+Batterio #83
+   Posizione: 32.77, 0.21
+   Ucciso da: i
+
+Batterio #84
+   Posizione: 32.61, -0.41
+   Ucciso da: i
+
+Batterio #87
+   Posizione: 36.89, 0
+   Ucciso da: j
+
+Batterio #91
+   Posizione: 35.3, 0.62
+   Ucciso da: j
+
+Batterio #93
+   Posizione: 36.72, 0.14
+   Ucciso da: j
+
+Batterio #94
+   Posizione: 36.87, -0.02
+   Ucciso da: j
+
+Batterio #95
+   Posizione: 36.89, 0.23
+   Ucciso da: j
+
+Batterio #96
+   Posizione: 37.01, -0.33
+   Ucciso da: j
+
+
+----------------------
+
+ Ascissa massima dei batteri vivi: 38.62
+ Ascissa minima dei batteri vivi: -2.12
+

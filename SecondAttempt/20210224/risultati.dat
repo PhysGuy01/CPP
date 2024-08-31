@@ -1,0 +1,127 @@
+-----------------
+   Numero di misure: 342
+   Numero di modelli: 6
+-----------------
+
+ Modello #1
+   a: 0.01
+   b: 1.14
+   c: 1
+
+ Modello #2
+   a: 0.01
+   b: 1.2
+   c: 2
+
+ Modello #3
+   a: 0.01
+   b: 0.1
+   c: 2
+
+ Modello #4
+   a: 0.01
+   b: 1.14
+   c: 6
+
+ Modello #5
+   a: 0.01
+   b: 1.14
+   c: 2
+
+ Modello #6
+   a: 0.01
+   b: 1.14
+   c: 20
+
+-----------------
+
+ Prime e ultime tre misure: 
+
+Misura #1
+   Tempo: 9.44282
+   UdM: s
+   Posizione: 13.3105
+
+Misura #2
+   Tempo: 17.4487
+   UdM: s
+   Posizione: 23.8092
+
+Misura #3
+   Tempo: -2.52199
+   UdM: s
+   Posizione: 1.08442
+
+Misura #340
+   Tempo: 0.909091
+   UdM: s
+   Posizione: 2.35006
+
+Misura #341
+   Tempo: -2.34604
+   UdM: s
+   Posizione: -0.799373
+
+Misura #342
+   Tempo: 0.117302
+   UdM: s
+   Posizione: 2.93632
+
+-----------------
+
+Misura #1
+   Tempo: -10
+   UdM: s
+   Posizione: -6.63595
+
+Misura #2
+   Tempo: -9.91202
+   UdM: s
+   Posizione: -7.91707
+
+Misura #3
+   Tempo: -9.82405
+   UdM: s
+   Posizione: -7.25556
+
+Misura #340
+   Tempo: 19.824
+   UdM: s
+   Posizione: 30.1889
+
+Misura #341
+   Tempo: 19.912
+   UdM: s
+   Posizione: 29.7331
+
+Misura #342
+   Tempo: 20
+   UdM: s
+   Posizione: 28.3466
+
+-----------------
+
+ Modello #1
+   Chi2: 0.501001
+
+ Modello #2
+   Chi2: 0.364249
+
+ Modello #3
+   Chi2: 27.0066
+
+ Modello #4
+   Chi2: 4.24904
+
+ Modello #5
+   Chi2: 0.250609
+
+ Modello #6
+   Chi2: 81.2435
+
+
+-----------------
+ Miglior modello:
+   Parametri: 0.01, 1.14, 2
+-----------------
+
