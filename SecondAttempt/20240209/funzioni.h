@@ -22,3 +22,6 @@ int contaRighe(string filename);
 voto* loadVoti(voto* vot, int nVoti);
 void print(stringstream &ss);
 studente* loadStud(studente* stud, int nStud);
+studente* scremaStud(studente* stud, int nStud, studente* newStud, int nAmmessi);
+studente* updateStud(studente* newStud, int nAmmessi, voto* vot, int nVoti, int &nEspulsi);
+void savePassedStuds(studente* newStud, int nAmmessi);
