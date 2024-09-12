@@ -1,0 +1,85 @@
+
+Numero di eventi: 1110
+Numero di eventi di tipo segnale: 123 11.0811%
+Numero di eventi di background: 987 88.9189%
+
+--------------------------------------------------
+
+Massa invariante dell'evento #1: 185.747
+Massa invariante dell'evento #2: 149.881
+Massa invariante dell'evento #3: 122.642
+Massa invariante dell'evento #4: 186.364
+Massa invariante dell'evento #5: 79.8338
+Massa invariante dell'evento #6: 103.389
+Massa invariante dell'evento #7: 118.433
+Massa invariante dell'evento #8: 140.756
+Massa invariante dell'evento #9: 114.972
+Massa invariante dell'evento #10: 130.55
+
+--------------------------------------------------
+
+Primi e ultimi quattro eventi in ordine: 
+
+Evento #1: 
+   Quadrimpulso p1: (10.0022, 16.6704, -25.0055, 10.0022)
+   Quadrimpulso p2: (40.0088, -16.6704, 25.0055, -10.0022)
+   Segnale: no
+   Massa invariante: 50.0111
+
+Evento #2: 
+   Quadrimpulso p1: (10.011, 16.685, -25.0276, 10.011)
+   Quadrimpulso p2: (40.0441, -16.685, 25.0276, -10.011)
+   Segnale: no
+   Massa invariante: 50.0551
+
+Evento #3: 
+   Quadrimpulso p1: (10.0478, 16.7464, -25.1196, 10.0478)
+   Quadrimpulso p2: (40.1913, -16.7464, 25.1196, -10.0478)
+   Segnale: no
+   Massa invariante: 50.2392
+
+Evento #4: 
+   Quadrimpulso p1: (10.1113, 16.8522, -25.2782, 10.1113)
+   Quadrimpulso p2: (40.4452, -16.8522, 25.2782, -10.1113)
+   Segnale: no
+   Massa invariante: 50.5565
+
+Evento #1107: 
+   Quadrimpulso p1: (39.9407, 66.5678, -99.8517, 39.9407)
+   Quadrimpulso p2: (159.763, -66.5678, 99.8517, -39.9407)
+   Segnale: no
+   Massa invariante: 199.703
+
+Evento #1108: 
+   Quadrimpulso p1: (39.946, 66.5766, -99.8649, 39.946)
+   Quadrimpulso p2: (159.784, -66.5766, 99.8649, -39.946)
+   Segnale: no
+   Massa invariante: 199.73
+
+Evento #1109: 
+   Quadrimpulso p1: (39.9506, 66.5844, -99.8766, 39.9506)
+   Quadrimpulso p2: (159.803, -66.5844, 99.8766, -39.9506)
+   Segnale: no
+   Massa invariante: 199.753
+
+Evento #1110: 
+   Quadrimpulso p1: (39.9558, 66.593, -99.8895, 39.9558)
+   Quadrimpulso p2: (159.823, -66.593, 99.8895, -39.9558)
+   Segnale: no
+   Massa invariante: 199.779
+
+
+--------------------------------------------------
+
+Massa invariante media tra tutte le misure: 126.291
+Massa invariante media tra le misure di segnale: 124.781
+Massa invariante media tra le misure di background: 126.479
+
+Dev std tra tutte le misure: 41.7639
+Dev std tra le misure di segnale: 5.0856
+Dev std tra le misure di background: 44.2498
+
+Massa invariante massima e minima di tutte le misure: 199.779, 50.0111
+Massa invariante massima e minima delle misure di segnale: 136.422, 113.529
+Massa invariante massima e minima delle misure di background: 199.779, 50.0111
+
